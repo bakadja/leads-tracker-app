@@ -7,7 +7,7 @@
 
 A lightweight, browser-based application for saving and managing URL leads. Built with vanilla JavaScript and Firebase realtime database.
 
-![Leads Tracker Screenshot](https://via.placeholder.com/800x400?text=Leads+Tracker+App)
+![Leads Tracker Screenshot](preview.png)
 
 ## 📑 Table of Contents
 
@@ -33,7 +33,7 @@ A lightweight, browser-based application for saving and managing URL leads. Buil
 
 ## 🎬 Demo
 
-[View Live Demo](https://leads-tracker-app-57754.web.app) *(placeholder link)*
+[View Live Demo](https://mobile-leads-tracker.kevinngongang.dev)
 
 ## 🔧 Technologies
 
@@ -53,7 +53,7 @@ A lightweight, browser-based application for saving and managing URL leads. Buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/leads-tracker-app.git
+   git clone https://github.com/bakadja/leads-tracker-app.git
    cd leads-tracker-app
    ```
 
@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/leads-tracker-app](https://github.com/yourusername/leads-tracker-app)
+Project Link: [https://github.com/bakadja/leads-tracker-app](https://github.com/bakadja/leads-tracker-app)
 
 ---
 
