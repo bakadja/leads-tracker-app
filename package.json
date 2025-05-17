@@ -1,6 +1,6 @@
 {
-  "name": "Leads Tracker App",
-  "description": "https://scrimba.com/frontend-path-c0j/~05ku",
+  "name": "leads-tracker-app",
+  "description": "https://mobile-leads-tracker.kevinngongang.dev/",
   "scripts": {
     "start": "vite",
     "dev": "vite",
